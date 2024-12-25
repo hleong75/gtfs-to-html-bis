@@ -5,7 +5,7 @@
       "url": "https://data.iledefrance.fr/explore/dataset/offre-horaires-tc-gtfs-idfm/files/a925e164271e4bca93433756d6a340d1/download/"
     }
   ],
-  "allowEmptyTimetables": false,
+  "allowEmptyTimetables": true,
   "beautify": false,
   "coordinatePrecision": 5,
   "dateFormat": "MMM D, YYYY",
@@ -37,10 +37,10 @@
   "showArrivalOnDifference": 0.2,
   "showCalendarExceptions": true,
   "showMap": true,
-  "showOnlyTimepoint": true,
+  "showOnlyTimepoint": false,
   "showRouteTitle": true,
-  "showStopCity": false,
-  "showStopDescription": false,
+  "showStopCity": true,
+  "showStopDescription": true,
   "showStoptimesForRequestStops": true,
   "skipImport": false,
   "sortingAlgorithm": "common",
@@ -48,5 +48,5 @@
   "timeFormat": "kk:mm",
   "useParentStation": true,
   "verbose": true,
-  "zipOutput": false
+  "zipOutput": true
 }
