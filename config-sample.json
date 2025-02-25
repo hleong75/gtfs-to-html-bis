@@ -44,7 +44,7 @@
   "showStoptimesForRequestStops": true,
   "skipImport": false,
   "sortingAlgorithm": "common",
-  "templatePath": "views/default",
+  "templatePath": "gtfs-to-htmlviews/default",
   "timeFormat": "kk:mm",
   "useParentStation": true,
   "verbose": true,
